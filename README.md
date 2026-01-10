@@ -28,56 +28,55 @@ height="22px" />
 </a>
 </br>
 
-<h2>💡 Languages & Machine Learning Stack</h2>
+<h2>💻 Programming Languages</h2>
 
 <div align="center">
-  <img title="Python" alt="Python" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp;&nbsp;
-  <img title="C" alt="C" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  &nbsp;&nbsp;
-  <img title="NumPy" alt="NumPy" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Pandas" alt="Pandas" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Scikit-Learn" alt="Scikit-Learn" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Matplotlib" alt="Matplotlib" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-  &nbsp;&nbsp;
-  <img title="TensorFlow" alt="TensorFlow" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Jupyter Notebook" alt="Jupyter Notebook" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img title="C" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  &nbsp;
+  <img title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;
+  <img title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  &nbsp;
+  <img title="SQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+
+<br><br>
+</br>
+<h2>🧠 Machine Learning & Data</h2>
+
+<div align="center">
+  <img title="OpenCV" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+  &nbsp;
+  <img title="MediaPipe" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  &nbsp;
+  <img title="NumPy" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  &nbsp;
+  <img title="Pandas" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+</div>
+
+<p align="center">
+  Model Training • Accuracy Evaluation
+</p>
 
 <br><br>
 
-</br></br>
+</br>
 
-<h2>🛠️ Tools & Development Environment</h2>
+<h2>🛠️ Tools</h2>
 
 <div align="center">
-  <img title="Git" alt="Git" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  &nbsp;&nbsp;
-  <img title="GitHub" alt="GitHub" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  &nbsp;&nbsp;
-  <img title="VS Code" alt="VS Code" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Windows" alt="Windows" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  &nbsp;&nbsp;
-  <img title="Markdown" alt="Markdown" width="36"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img title="VS Code" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  &nbsp;
+  <img title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  &nbsp;
+  <img title="Jupyter" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </div>
+
+<p align="center">
+  Arduino IDE • Google Colab
+</p>
+
 
 
 <br><br>
@@ -105,12 +104,6 @@ height="22px" />
   </a>
 
   <br><br>
-
-  <img
-    src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-    width="70%"
-    alt="romantic music animation"
-  />
 
   <p><i>Perfect — Ed Sheeran 🎶</i></p>
 </div>
