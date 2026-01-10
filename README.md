@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hari+Krishna;He/him;Computer+Engineering+Student;ML+Dev;Movie+Lover+<3%3C3;function+findQuestion(42)"
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hari+Krishna;He/him;Computer+Engineering+Student;ML+Dev;Movie+Lover+%3C3;"
       alt="Computer Engineering Student, Indian ML developer, Movie lover"
     >
   </a>
