@@ -30,29 +30,31 @@ height="22px" />
 
 <h2>💡 Languages & Machine Learning Stack</h2>
 
-<code><img title="Python" alt="Python" width="34px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-
-<code><img title="C" alt="C" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-
-<code><img title="NumPy" alt="NumPy" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
-
-<code><img title="Pandas" alt="Pandas" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code>
-
-<code><img title="Scikit-Learn" alt="Scikit-Learn" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
-
-<code><img title="Matplotlib" alt="Matplotlib" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /></code>
-
-<code><img title="TensorFlow" alt="TensorFlow" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
-
-<code><img title="Jupyter Notebook" alt="Jupyter Notebook" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
+<div align="center">
+  <img title="Python" alt="Python" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img title="C" alt="C" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  &nbsp;&nbsp;
+  <img title="NumPy" alt="NumPy" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Pandas" alt="Pandas" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Scikit-Learn" alt="Scikit-Learn" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Matplotlib" alt="Matplotlib" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  &nbsp;&nbsp;
+  <img title="TensorFlow" alt="TensorFlow" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Jupyter Notebook" alt="Jupyter Notebook" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+</div>
 
 <br><br>
 
@@ -60,20 +62,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 
 <h2>🛠️ Tools & Development Environment</h2>
 
-<code><img title="Git" alt="Git" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<div align="center">
+  <img title="Git" alt="Git" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
+  <img title="GitHub" alt="GitHub" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  &nbsp;&nbsp;
+  <img title="VS Code" alt="VS Code" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Windows" alt="Windows" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Markdown" alt="Markdown" width="36"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</div>
 
-<code><img title="GitHub" alt="GitHub" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-
-<code><img title="VS Code" alt="VS Code" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-
-<code><img title="Windows" alt="Windows" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-
-<code><img title="Markdown" alt="Markdown" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 
 <br><br>
 
@@ -87,13 +92,29 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-origin
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>
-<h2>🎧 Now Playing on Spotify</h2>
+<h2>💖 A Song That Stays With Me</h2>
 
-<a href="https://open.spotify.com/user/312zx7lrdsjxktea2br7szyzl5lq">
+<div align="center">
+  <a href="https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v">
+    <img
+      src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
+      width="300"
+      alt="Perfect - Ed Sheeran"
+      style="border-radius:12px;"
+    />
+  </a>
+
+  <br><br>
+
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=312zx7lrdsjxktea2br7szyzl5lq&cover_image=true&theme=novatorem&show_offline=false"
-    alt="Now Playing on Spotify"
+    src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+    width="70%"
+    alt="romantic music animation"
   />
+
+  <p><i>Perfect — Ed Sheeran 🎶</i></p>
+</div>
+
 </a>
 
 <h2>:thought_balloon: Quote of the day</h2>
