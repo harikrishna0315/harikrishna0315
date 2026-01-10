@@ -1,4 +1,5 @@
 <div id="top"></div>
+<<<<<<< HEAD
 
 <!-- HEADER -->
 <div align="center">
@@ -18,6 +19,7 @@
 <br>
 
 <!-- CONTACT -->
+
 <h2>👥 How to reach me</h2>
 
 <a href="https://github.com/harikrishna0315">
@@ -47,6 +49,37 @@
 <br><br>
 
 <!-- PROGRAMMING -->
+=======
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="./assets/header.png">
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hari Krishna;He/him;Computer+Engineering+Student;Indian+ML+Dev;Movie+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian ML developer, Movie lover"></a>
+</div>
+
+
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/harikrishna0315">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/harikrishna0315?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@harikrishna0315" height="22px">
+</a>
+
+<a href="https://www.linkedin.com/in/hari-krishna-2393a633a/">
+    <img alt="link to my LinkedIn"
+src="https://img.shields.io/static/v1?label=LinkedIn&message=Hari%20Krishna&color=0A66C2&style=for-the-badge&logo=linkedin"
+height="22px" />
+
+</a>
+
+
+<a href="mailto:harikrishnx07@gmail.com">
+    <img alt="link to send me an email"
+src="https://img.shields.io/static/v1?label=Email&message=harikrishnx07@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail"
+height="22px" />
+
+</a>
+</br>
+
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 <h2>💻 Programming Languages</h2>
 
 <div align="center">
@@ -59,9 +92,15 @@
   <img title="SQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+<<<<<<< HEAD
 <br><br>
 
 <!-- ML -->
+=======
+
+<br><br>
+</br>
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 <h2>🧠 Machine Learning & Data</h2>
 
 <div align="center">
@@ -78,9 +117,16 @@
   Model Training • Accuracy Evaluation
 </p>
 
+<<<<<<< HEAD
 <br>
 
 <!-- TOOLS -->
+=======
+<br><br>
+
+</br>
+
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 <h2>🛠️ Tools</h2>
 
 <div align="center">
@@ -95,6 +141,7 @@
   Arduino IDE • Google Colab
 </p>
 
+<<<<<<< HEAD
 <br><br>
 
 <!-- PORTFOLIO -->
@@ -110,6 +157,22 @@
 <br><br>
 
 <!-- PERFECT SONG -->
+=======
+
+
+<br><br>
+
+</br></br>
+
+
+<h2>:books: My personal portfolio</h2>
+
+</br>
+<a href="https://hari-krishna.vercel.app/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 <h2>💖 A Song That Stays With Me</h2>
 
 <div align="center">
@@ -122,6 +185,7 @@
     />
   </a>
 
+<<<<<<< HEAD
   <p><i>Perfect — Ed Sheeran 🎶</i></p>
 </div>
 
@@ -154,6 +218,30 @@
 <br><br>
 
 <!-- FOOTER MESSAGE -->
+=======
+  <br><br>
+
+  <p><i>Perfect — Ed Sheeran 🎶</i></p>
+</div>
+
+</a>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 <div align="center">
   <img
     alt="thanks for your visit"
@@ -161,6 +249,7 @@
   >
 </div>
 
+<<<<<<< HEAD
 <p align="right">
   <a href="#top">
     <img
@@ -173,4 +262,22 @@
 <!-- FOOTER IMAGE -->
 <div align="center">
   <img width="100%" alt="footer" src="./assets/footer.png">
+=======
+
+<p align="right">
+    <a href="#top">
+        <img
+            src="https://img.shields.io/static/v1?label=&message=back+to+top&color=7E3ACE&style=flat"
+            alt="back to top"
+        />
+    </a>
+</p>
+
+<div align="center">
+    <img
+        alt="footer"
+        width="100%"
+        src="./assets/footer.png"
+    >
+>>>>>>> cef71a9f40e7b41728e8fd00fdc18ea3c45dfdca
 </div>
