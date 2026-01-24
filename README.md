@@ -18,7 +18,7 @@
 <br>
 
 <!-- CONTACT -->
-<h2>👥 How to reach me</h2>
+<h2> How to reach me</h2>
 
 <a href="https://github.com/harikrishna0315">
   <img src="https://img.shields.io/github/followers/harikrishna0315?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@harikrishna0315" height="22px">
@@ -35,7 +35,7 @@
 <br><br>
 
 <!-- PROGRAMMING -->
-<h2>💻 Programming Languages</h2>
+<h2>Programming Languages</h2>
 
 <div align="center">
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -47,7 +47,7 @@
 <br><br>
 
 <!-- ML -->
-<h2>🧠 Machine Learning & Data</h2>
+<h2> Machine Learning & Data</h2>
 
 <div align="center">
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
@@ -61,7 +61,7 @@
 <br>
 
 <!-- TOOLS -->
-<h2>🛠️ Tools</h2>
+<h2> Tools</h2>
 
 <div align="center">
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -74,7 +74,7 @@
 <br><br>
 
 <!-- PORTFOLIO -->
-<h2>📚 My personal portfolio</h2>
+<h2> My personal portfolio</h2>
 
 <a href="https://hari-krishna.vercel.app/">
   <img src="https://img.shields.io/static/v1?label=&message=open+portfolio&color=7E3ACE&style=for-the-badge">
@@ -83,7 +83,7 @@
 <br><br>
 
 <!-- PERFECT SONG -->
-<h2>💖 A Song That Stays With Me</h2>
+<h2> A Song That Stays With Me</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v">
@@ -101,7 +101,7 @@
 <br>
 
 <!-- JOKE -->
-<h2>😜 Joke of the day</h2>
+<h2> Joke of the day</h2>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder">
 
 <br><br>
