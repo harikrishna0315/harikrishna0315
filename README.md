@@ -95,7 +95,7 @@
 <br>
 
 <!-- QUOTE -->
-<h2>💭 Quote of the day</h2>
+<h2> Quote of the day</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 <br>
