@@ -47,14 +47,16 @@
 <br><br>
 
 <!-- ML -->
-<h2> Machine Learning & Data</h2>
+<h2>Machine Learning & Data</h2>
 
 <div align="center">
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV">
+  <img width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="MediaPipe">
 </div>
+
 
 <p align="center">Model Training • Accuracy Evaluation</p>
 
