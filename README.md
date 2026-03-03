@@ -108,6 +108,12 @@
 
 <br><br>
 
+<!-- RECENT ACTIVITY -->
+<h2> Recent Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!;Have+a+great+day+%F0%9F%91%8B">
