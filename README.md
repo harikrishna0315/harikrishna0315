@@ -121,7 +121,6 @@
 7. 💪 Opened PR [#7483](undefined) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
 8. 🔱 Forked [harikrishna0315/monkeytype](https://github.com/harikrishna0315/monkeytype) from [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
 9. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
-10. ⬆️ Pushed undefined commit(s) to [Priyan503/Automatic_Pill_Dispenser](https://github.com/Priyan503/Automatic_Pill_Dispenser)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
