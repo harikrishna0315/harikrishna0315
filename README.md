@@ -120,7 +120,6 @@
 6. ⬆️ Pushed undefined commit(s) to [harikrishna0315/monkeytype](https://github.com/harikrishna0315/monkeytype)<br>
 7. 💪 Opened PR [#7483](undefined) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
 8. 🔱 Forked [harikrishna0315/monkeytype](https://github.com/harikrishna0315/monkeytype) from [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
-9. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
