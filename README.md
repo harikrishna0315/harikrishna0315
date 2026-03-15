@@ -114,8 +114,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [harikrishna0315/harikrishna0315](https://github.com/harikrishna0315/harikrishna0315)<br>
 2. ⬆️ Pushed undefined commit(s) to [harikrishna0315/harikrishna0315](https://github.com/harikrishna0315/harikrishna0315)<br>
-3. ⭐ Starred [Ganesh-Macherla/dsa-visualizer](https://github.com/Ganesh-Macherla/dsa-visualizer)<br>
-4. ⭐ Starred [Ganesh-Macherla/Gesture-Controlled-Flappy-Bird](https://github.com/Ganesh-Macherla/Gesture-Controlled-Flappy-Bird)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
