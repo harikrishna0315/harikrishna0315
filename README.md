@@ -112,8 +112,9 @@
 <h2> Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [harikrishna0315/harikrishna0315](https://github.com/harikrishna0315/harikrishna0315)<br>
+1. ⭐ Starred [Mithun-08/homeLab](https://github.com/Mithun-08/homeLab)<br>
 2. ⬆️ Pushed undefined commit(s) to [harikrishna0315/harikrishna0315](https://github.com/harikrishna0315/harikrishna0315)<br>
+3. ⬆️ Pushed undefined commit(s) to [harikrishna0315/harikrishna0315](https://github.com/harikrishna0315/harikrishna0315)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
