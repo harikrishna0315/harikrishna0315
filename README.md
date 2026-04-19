@@ -115,7 +115,6 @@
 1. ⭐ Starred [kushvinth/ZELL](https://github.com/kushvinth/ZELL)<br>
 2. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
 3. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
-4. ⭐ Starred [Mithun-08/homeLab](https://github.com/Mithun-08/homeLab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
