@@ -113,8 +113,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [kushvinth/ZELL](https://github.com/kushvinth/ZELL)<br>
-2. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
-3. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
