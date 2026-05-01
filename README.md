@@ -112,7 +112,6 @@
 <h2> Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kushvinth/ZELL](https://github.com/kushvinth/ZELL)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
