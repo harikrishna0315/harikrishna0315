@@ -113,7 +113,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [harikrishna0315/Pulse-Chennai](https://github.com/harikrishna0315/Pulse-Chennai)<br>
-2. ⬆️ Pushed undefined commit(s) to [harikrishna0315/hari_krishna](https://github.com/harikrishna0315/hari_krishna)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
