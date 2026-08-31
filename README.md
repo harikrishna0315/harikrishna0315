@@ -112,7 +112,6 @@
 <h2> Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [harikrishna0315/Pulse-Chennai](https://github.com/harikrishna0315/Pulse-Chennai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- FOOTER -->
